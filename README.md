@@ -1,7 +1,3 @@
-# nuclearblockchain
-
-# nuclearblockchain
-
 # How to build, run, push and pull the docker image of nuclearblockchain
 ## 1. Register your docker ID
 Lead your browser to the site: https://hub.docker.com/signup to register your
